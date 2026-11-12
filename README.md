@@ -63,6 +63,15 @@ Runs faceless YouTube & Instagram channels end to end:
 
 `Laravel` `PHP` `Vue` `TypeScript` `YouTube API`
 
+#### 🏗️ More I've built
+- **DEMOLISH** *(in development)* — structural demolition puzzle for phones: find the members carrying the building, set the fuses, strike. `Phaser 4` `TypeScript` `Unity`
+- **NEXUS Silicon** — futuristic 3D website for a fictional chip company, fully offline. `Next.js 15` `React 19` `Tailwind v4` `Three.js`
+
+#### 👥 Team & client work
+- **Surri** — real-time four-player Indian trick-taking card game (a Spades variant) with bots. `Node.js` `socket.io` `Android`
+- **Snake Haul** — Unity arcade game for low-end Android, with a 40 MB build budget enforced in CI. `Unity 6` `Firebase`
+- **Crackle Orchestrator** — multi-tenant SaaS that runs one campaign across Google Ads and Facebook at once. `Laravel 12` `Vue` `Inertia` `Horizon`
+
 > The source code for these projects is private — happy to walk through it on a call.
 
 ---
