@@ -2,7 +2,7 @@
 
 **Full-stack & mobile developer from India.** I build Android apps, real-time multiplayer games, Unity mobile games and AI automation platforms — and I like owning them end to end: the core logic, the server, the app, the build pipeline and the Play Store release.
 
-🌐 **Portfolio:** [viveksingh3838.github.io](https://viveksingh3838.github.io) &nbsp;·&nbsp; 📫 **Email:** [viveksingh3838@gmail.com](mailto:viveksingh3838@gmail.com)<!--LINKEDIN-->
+🌐 **Portfolio:** [viveksingh3838.github.io](https://viveksingh3838.github.io) &nbsp;·&nbsp; 📫 **Email:** [viveksingh3838@gmail.com](mailto:viveksingh3838@gmail.com) &nbsp;·&nbsp; 💼 **LinkedIn:** [viveksingh3838](https://www.linkedin.com/in/viveksingh3838)
 
 ---
 
